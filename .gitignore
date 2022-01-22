@@ -27,9 +27,8 @@ git rm -r FMP Gallery/Library // This deletes from filesystem
 /[Aa]ssets/Plugins/Editor/JetBrains*
 
 # VRCSDK
-/[Aa]ssets/VRCSDK
-/[Aa]ssets/VRCHAT Examples
-/[Aa]ssets/Udon
+/[Aa]ssets/!ExcludeFromGitHub
+
 
 # Visual Studio cache directory
 .vs/
